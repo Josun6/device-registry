@@ -1,3 +1,3 @@
-# 可选扩展（无此依赖时仍可运行主要功能）
+# Optional packages for Excel and image support (ASCII for Windows pip)
 openpyxl>=3.1,<4
 Pillow>=10,<13
